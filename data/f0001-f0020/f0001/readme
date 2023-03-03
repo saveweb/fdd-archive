@@ -1,0 +1,24 @@
+## 正面的字
+联想 LJ6P
+版本号：A
+已查过病毒
+联想集团
+
+DOS遥控面板程序
+WINDOWS打印驱动程序
+及TrueType字体
+磁片2
+
+Windows is a registered trademark of Microsoft corporation
+UK3245001
+
+## 背面的字
+
+SH60405_M01_UA2
+Media made in Japan
+
+
+## 存档记录
+
+使用 ddrescue ，多次正向和反向 trim 依然无法读到那个坏块。
+更新：不开盘，直接用棉签+酒精清洁外圈磁道，现已全盘成功读取。

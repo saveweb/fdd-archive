@@ -1,0 +1,17 @@
+# Mapfile. Created by GNU ddrescue version 1.23
+# Command line: ddrescue -d /dev/sdc dump.img ddrescue.log -r 3
+# Start time:   2023-03-01 16:13:52
+# Current time: 2023-03-01 16:14:21
+# Retrying bad sectors... Retry 2 (forwards)
+# current_pos  current_status  current_pass
+0x00006A00     -               3
+#      pos        size  status
+0x00000000  0x00001000  +
+0x00001000  0x00000200  -
+0x00001200  0x00002200  +
+0x00003400  0x00000200  -
+0x00003600  0x00003400  +
+0x00006A00  0x00000200  -
+0x00006C00  0x00002E00  +
+0x00009A00  0x00000200  -
+0x00009C00  0x0015E400  +

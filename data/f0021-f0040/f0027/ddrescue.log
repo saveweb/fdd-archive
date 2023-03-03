@@ -1,0 +1,11 @@
+# Mapfile. Created by GNU ddrescue version 1.23
+# Command line: ddrescue -d /dev/sdc dump.img ddrescue.log --retrim -r 3
+# Start time:   2023-03-01 13:12:06
+# Current time: 2023-03-01 13:12:26
+# Finished
+# current_pos  current_status  current_pass
+0x0006D200     +               3
+#      pos        size  status
+0x00000000  0x0006D200  +
+0x0006D200  0x00000200  -
+0x0006D400  0x000FAC00  +
